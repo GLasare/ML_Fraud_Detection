@@ -4,6 +4,9 @@
 
 **რეპოზიტორიის სტრუქტურა**
 
+model_experiment_XGBoost.ipynb - Training using XGBoost
+model_experiment_RandomForest.ipynb - Training using RandomForest
+model_experiment_LogisticRegression.ipynb - Training using LogisticRegression
 
 
 **Feature Engineering**
